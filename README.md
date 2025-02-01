@@ -1,4 +1,4 @@
-# Software-Eng-projects
+# Software Engineering Projects
 Repo for all Software Engineering and Development related projects
 
 ## [1]  FSE CHAT APP
